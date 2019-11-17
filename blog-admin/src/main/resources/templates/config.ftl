@@ -170,7 +170,7 @@
                                     <div class="item">
                                         <label class="control-label col-md-3 col-sm-3 col-xs-12"></label>
                                         <div class="col-md-6 col-sm-6 col-xs-12">
-                                            <small>帮助文档：<a href="http://t.cn/AiCIWi0Q" target="_blank">OneBlog-第三方配置参考-百度站长平台配置</a></small>
+                                            <small>帮助文档：<a href="http://t.cn/AiCIWi0Q" target="_blank">xfBlog-第三方配置参考-百度站长平台配置</a></small>
                                         </div>
                                     </div>
                                     <div class="clearfix"></div>
@@ -208,7 +208,7 @@
                                         <div class="item form-group">
                                             <label class="control-label col-md-3 col-sm-3 col-xs-12" for="localFilePath">文件存储路径 <i class="fa fa-question-circle" title="Nginx服务中root后面对应的目录地址"></i> <span class="required">*</span></label>
                                             <div class="col-md-6 col-sm-6 col-xs-12">
-                                                <input type="text" class="form-control col-md-7 col-xs-12" name="localFilePath" id="localFilePath" required="required" placeholder="请输入文件存储路径，如：/var/www/oneblog/upload/"/>
+                                                <input type="text" class="form-control col-md-7 col-xs-12" name="localFilePath" id="localFilePath" required="required" placeholder="请输入文件存储路径，如：/var/www/xfBlog/upload/"/>
                                             </div>
                                         </div>
                                         <div class="item form-group">

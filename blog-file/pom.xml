@@ -10,7 +10,7 @@
     <description>文件上传相关的模块</description>
 
     <parent>
-        <groupId>com.zyd</groupId>
+        <groupId>com.xf</groupId>
         <artifactId>blog</artifactId>
         <version>2.2.2</version>
     </parent>

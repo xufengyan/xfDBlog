@@ -69,7 +69,7 @@
     </style>
 </@header>
 <#-- 网站首页的项目介绍内容 -->
-<@aboutOneBlog></@aboutOneBlog>
+<@aboutxfBlog></@aboutxfBlog>
 <div class="row">
     <div class="col-md-12 col-sm-12 col-xs-12 top_tiles">
         <#-- 文章 -->

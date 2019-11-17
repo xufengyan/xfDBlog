@@ -1,10 +1,8 @@
 ${AnsiColor.BLUE}
 ====================================================================================================================================
 
-                                 欢迎使用 OneBlog 博客系统(原DBlog) - Powered By https://www.zhyd.me
-                                    官方开源地址(Gitee)：https://gitee.com/yadong.zhang/DBlog
-                                    官方开源地址(Github)：https://github.com/zhangyd-c/OneBlog
-                                                      唯一官方QQ群：190886500
+                                                欢迎使用 xfBlog 博客系统
+                                    官方开源地址(Github)：https://github.com/xufengyan
 
                                            _____                 ______   _
                                           |  _  |                | ___ \ | |

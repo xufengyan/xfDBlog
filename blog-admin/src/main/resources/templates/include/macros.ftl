@@ -266,13 +266,13 @@
 </#macro>
 
 <#-- 网站首页的项目介绍内容 -->
-<#macro aboutOneBlog>
+<#macro aboutxfBlog>
     <div class="modal fade" id="noticeModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel2">
     <div class="modal-dialog modal-lg" role="document" style="width: 70%;">
         <div class="modal-content">
             <div class="modal-header">
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-                <h4 class="modal-title" id="myModalLabel2">关于OneBlog - 一个简洁美观、功能强大并且自适应的Java博客</h4>
+                <h4 class="modal-title" id="myModalLabel2">关于xfBlog - 一个简洁美观、功能强大并且自适应的Java博客</h4>
             </div>
             <div class="modal-body notice-box">
                 <div class="row">
@@ -286,12 +286,12 @@
                     </div>
                     <div class="col col-lg-4 col-sm-4 col-md-4 col-xs-4">
                         <fieldset>
-                            <legend>关于OneBlog</legend>
+                            <legend>关于xfBlog</legend>
 
                             <h2>项目相关</h2>
                             <ul>
                                 <li>开源项目地址①：<a href="https://gitee.com/yadong.zhang/DBlog" target="_blank">https://gitee.com/yadong.zhang/DBlog</a></li>
-                                <li>开源项目地址②：<a href="https://github.com/zhangyd-c/OneBlog" target="_blank">https://github.com/zhangyd-c/OneBlog</a></li>
+                                <li>开源项目地址②：<a href="https://github.com/zhangyd-c/xfBlog" target="_blank">https://github.com/zhangyd-c/xfBlog</a></li>
                                 <li>博主网站首页：<a href="https://www.zhyd.me" target="_blank">https://www.zhyd.me</a></li>
                             </ul>
                             <h2>Demo演示</h2>
@@ -336,7 +336,7 @@
 
             </div>
             <div class="modal-footer">
-                <span class="pull-left">tips: 如不想显示该弹窗，可在 <code>index.ftl</code> 中搜索 <code>aboutOneBlog</code> 后删掉相关代码</span>
+                <span class="pull-left">tips: 如不想显示该弹窗，可在 <code>index.ftl</code> 中搜索 <code>aboutxfBlog</code> 后删掉相关代码</span>
                 <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-close"> 关闭</i></button>
             </div>
         </div>
